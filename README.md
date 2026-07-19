@@ -5,4 +5,6 @@ HTML elements are used in a clear a logical manner, allowing sections to be easi
 
 Remember to change all placeholder content, including the site logo in the header, contact info, and the footer content.
 
+To see a live demo of the template, go here: https://kitrady.github.io/kits-website-template/
+
 To demo the website on your local machine, run python3 -m http.server 8000. Then, open your browser and go to http://localhost:8000. When you are done demoing the website, go back to the terminal and kill the process with ctrl + c (regardless of OS).
